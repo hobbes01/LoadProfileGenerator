@@ -40,7 +40,7 @@
                         <TextBlock Grid.ColumnSpan="2" Style="{StaticResource TextBlockStyle}">
                             Persons are the ones causing the energy use in households. Here you can define a person.
                             Each person needs enough desires to keep them occupied. A person has two sets of desires.
-                            The first set applies when the person is healty and includes for example going to work.
+                            The first set applies when the person is healthy and includes for example going to work.
                             The second set of desires applies when the person gets sick, since for example a sick person
                             won't go to work.
                         </TextBlock>
